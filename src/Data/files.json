@@ -1,0 +1,132 @@
+{
+    "name": "react-app",
+    "type": "folder",
+    "items": [
+        {
+            "name": "public",
+            "type": "folder",
+            "items": [
+                {
+                    "name": "⭐favicon.ico",
+                    "type": "file"
+                },
+                {
+                    "name": "</>index.html",
+                    "type": "file"
+                },
+                {
+                    "name": "꒰ ꒱ manifest.json",
+                    "type": "file"
+                },
+                {
+                    "name": "🤖 robots.txt",
+                    "type": "file"
+                },
+                {
+                    "name": "🏞️logo.png",
+                    "type": "file"
+                }
+            ]    
+        },
+        {
+            "name": "src",
+            "type": "folder",
+            "items": [
+                {
+                    "name": "Components",
+                    "type": "folder",
+                    "items": [
+                        {
+                            "name": "｡🇯‌🇸‌ Header.js",
+                            "type": "file"
+                        },
+                        {
+                            "name": "｡🇯‌🇸‌ Footer.js",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pages",
+                    "type": "folder",
+                    "items": [
+                        {
+                            "name": "🌐Header.jsx",
+                            "type": "file"
+                        },
+                        {
+                            "name": "🌐Content.jsx",
+                            "type": "file"
+                        },
+                        {
+                            "name": "🌐Footer.jsx",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "name": "Styles",
+                    "type": "folder",
+                    "items": [
+                        {
+                            "name": "#️⃣Header.css",
+                            "type": "file"
+                        },
+                        {
+                            "name": "#️⃣Content.css",
+                            "type": "file"
+                        },
+                        {
+                            "name": "#️⃣Footer.js",
+                            "type": "file"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "💡.gitignore",
+            "type": "file"
+        },
+        {
+            "name": "ⓘREADME.md",
+            "type": "file"
+        },
+        {
+            "name": "📦package.json",
+            "type": "file"
+        },
+        {
+            "name": "📦package.json",
+            "type": "file"
+        },
+        {
+            "name": "🧪App.test.js",
+            "type": "file"
+        },
+        {
+            "name": "#️⃣index.css",
+            "type": "file"
+        },
+        {
+            "name": "#️⃣App.css",
+            "type": "file"
+        },
+        {
+            "name": "🔅logo.svg",
+            "type": "file"
+        },
+        {
+            "name": "｡🇯‌🇸‌ index.js",
+            "type": "file"
+        },
+        {
+            "name": "｡🇯‌🇸‌ reportWebVital.js",
+            "type": "file"
+        },
+        {
+            "name": "｡🇯‌🇸‌ setupTests.js",
+            "type": "file"
+        } 
+    ]
+}

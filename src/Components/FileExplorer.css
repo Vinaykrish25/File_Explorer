@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+}
+.App{
+    border: 1px solid white;
+    width: 200px;
+    height: 1300px;
+}
+.fl-name{
+    color: white;
+    cursor: pointer;
+    padding-left: 20px;
+}
+.folder h4{
+    color: white;
+    cursor: pointer;
+}
+.fl-name:hover{
+    background-color: grey;
+}
+.fd-name:hover{
+    background-color: grey;
+}
